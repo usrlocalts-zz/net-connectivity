@@ -1,0 +1,19 @@
+{
+  "name": "net-connectivity",
+  "version": "1.0.0",
+  "description": "To Check internet connectivity",
+  "main": "net-connectivity.js",
+  "scripts": {
+    "test": "node net-connectivity"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/usrlocalts/net-connectivity"
+  },
+  "author": "TS Shriram <tsshriram@live.in>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/usrlocalts/net-connectivity/issues"
+  },
+  "homepage": "https://github.com/usrlocalts/net-connectivity"
+}
